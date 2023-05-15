@@ -1,0 +1,6 @@
+report*/
+__pycache__/
+.venv/
+*.png
+*.lock
+*.toml
